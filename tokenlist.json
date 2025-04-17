@@ -13,6 +13,13 @@
         "USDTg/USDT",
         "USDTg/TRX"
       ]
+    },
+    {
+      "source": "SunSwap V2",
+      "pairs": [
+        "USDTg/USDT",
+        "USDTg/TRX"
+      ]
     }
   ]
 }
